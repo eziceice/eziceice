@@ -68,11 +68,11 @@
     </a>
     &nbsp;
     <a title="PyCharm" href="https://www.jetbrains.com/pycharm/">
-        <img alt="IntelliJ IDEA" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/pycharm.svg" />
+        <img alt="PyCharm" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/pycharm.svg" />
     </a>
     &nbsp;
     <a title="WebStorm" href="https://www.jetbrains.com/webstorm/">
-        <img alt="IntelliJ IDEA" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/intellijidea.svg" />
+        <img alt="WebStorm" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/webstorm.svg" />
     </a>
 </p>
 
