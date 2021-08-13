@@ -1,6 +1,6 @@
 <h2 align="center">Hello :wave:, I'm Yutian Li/eziceice!</h2>
 
-<h3 align="center">:point_right: About me</h3>
+<h3 align="center">:point_right: A little about me</h3>
 
 <p align="center">
     Senior Engineer at REA Group based in Melbourne,
