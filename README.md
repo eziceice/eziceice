@@ -5,12 +5,12 @@
 <p align="center">
     Senior Engineer at REA Group based in Melbourne,
     Chinese and 
-    :basketball: fan.
+    a crazy fan of :basketball:.
 </p>
 
 <hr />
 
-<h3 align="center">:books: Skill Set</h3>
+<h3 align="center">:books: My Skill Set</h3>
 
 <br />
 
@@ -50,7 +50,7 @@
     </a>
     &nbsp;
     <a title="BuildKite" href="https://www.buildkite.com/">
-        <img alt="BuildKite" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/buidkite.svg" />
+        <img alt="BuildKite" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/buildkite.svg" />
     </a>
     &nbsp;
     <a title="Jenkins" href="https://www.jenkins.io/">
