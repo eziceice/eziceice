@@ -5,7 +5,7 @@
 <p align="center">
     Senior Engineer at REA Group based in Melbourne,
     Chinese and 
-    a crazy fan of :basketball:.
+    a :basketball: &nbsp;fan.
 </p>
 
 <hr />
