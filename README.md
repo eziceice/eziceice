@@ -6,7 +6,7 @@
     Senior Engineer at REA Group based in Melbourne,
     Chinese and 
     a :basketball: &nbsp;fan.
-    <br> My Blog here: https://eziceice.github.io/
+    <br> My Blog here: https://eziceice.com
 </p>
 
 <hr />
