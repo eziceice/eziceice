@@ -35,6 +35,10 @@
     <a title="Shell" href="https://github.com/eziceice?tab=repositories&language=shell">
         <img alt="Shell" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/shell.svg" />
     </a>
+    &nbsp;
+    <a title="Go" href="https://github.com/eziceice?tab=repositories&language=go">
+        <img alt="Shell" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/go.svg" />
+    </a>
 </p>
 
 <p align="center">
