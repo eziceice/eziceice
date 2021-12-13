@@ -32,12 +32,12 @@
         <img alt="Kotlin" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/kotlin.svg" />
     </a>
     &nbsp;
-    <a title="Shell" href="https://github.com/eziceice?tab=repositories&language=shell">
-        <img alt="Shell" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/shell.svg" />
+    <a title="Go" href="https://github.com/eziceice?tab=repositories&language=go">
+        <img alt="Go" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/go.svg" />
     </a>
     &nbsp;
-    <a title="Go" href="https://github.com/eziceice?tab=repositories&language=go">
-        <img alt="Shell" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/go.svg" />
+    <a title="Shell" href="https://github.com/eziceice?tab=repositories&language=shell">
+        <img alt="Shell" height="32px" src="https://raw.githubusercontent.com/eziceice/eziceice/master/icons/shell.svg" />
     </a>
 </p>
 
