@@ -6,7 +6,8 @@
     Senior Engineer at Stake based in Melbourne,
     Chinese and 
     a :basketball: &nbsp;fan.
-    <br> My Blog here: https://eziceice.com
+    <br> My Blog here: (https://eziceice.com)
+    <br> My Company Github account here: (https://github.com/YutianStake)
 </p>
 
 <hr />
