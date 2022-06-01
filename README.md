@@ -3,7 +3,7 @@
 <h3 align="center">:point_right: A little about me</h3>
 
 <p align="center">
-    Senior Engineer at Stake based in Melbourne,
+    Senior Engineer at @stake-global based in Melbourne,
     Chinese and 
     a :basketball: &nbsp;fan.
     <br> My Blog here: (https://eziceice.com)
